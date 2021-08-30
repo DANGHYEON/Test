@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
-<link href="./table2.css" rel="stylesheet">
+<link href="./css/table.css" rel="stylesheet">
 </head>
 <body>
 	<h1 id="title">Table2</h1>
